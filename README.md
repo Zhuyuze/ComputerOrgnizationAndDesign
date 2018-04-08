@@ -1,1 +1,3 @@
 # ComputerOrgnizationAndDesign
+计算机组成原理与实验
+汇编语言程序
