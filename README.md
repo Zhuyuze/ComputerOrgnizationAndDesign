@@ -1,2 +1,5 @@
 ﻿# ComputerOrgnizationAndDesign
-计算机组成原理与接口
+
+an mips assembly program
+
+single cycle CPU and multi cycle CPU using verilog
